@@ -1,0 +1,684 @@
+{
+    "products": [
+        {
+            "name": "Хананд өлгөх зураг",
+            "price": "5500",
+            "maxDailyQuantity": "11"
+        },
+        {
+            "name": "Ус буцалгагч",
+            "price": "56000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "3-л төмөр халуун сав",
+            "price": "18000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "3-л пиавр халуун сав",
+            "price": "14000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "2-л төмөр халуун сав",
+            "price": "16000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "2-л пиавр төмөр халуун сав",
+            "price": "14000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Жигнүүртэй никл тогоо 38-р",
+            "price": "45000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Жигнүүртэй никл тогоо 36-р",
+            "price": "43000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Жигнүүртэй никл тогоо 34-р",
+            "price": "41000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Жигнүүртэй никл тогоо 32-р",
+            "price": "39000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Жигнүүртэй никл тогоо 30-р",
+            "price": "37000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Данх 22-р",
+            "price": "29000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Никел тогоо 40-р",
+            "price": "39000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Махны машин",
+            "price": "55000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Никел түмпэн 80-р",
+            "price": "30000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Никел түмпэн 60-р",
+            "price": "28000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Никел түмпэн 50-р",
+            "price": "26000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Никел түмпэн 45-р",
+            "price": "24000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "Никел түмпэн 40-р",
+            "price": "22000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "Никел ширэмтэй тогоо",
+            "price": "19000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Хөнгөн цагаан түмпэн",
+            "price": "12000",
+            "maxDailyQuantity": "5"
+        },
+        {
+            "name": "Ширээний хултааз",
+            "price": "8500",
+            "maxDailyQuantity": "20"
+        },
+        {
+            "name": "Ширэмтэй никел тогоо 40-р",
+            "price": "90000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Ширэмтэй никел тогоо 36-р",
+            "price": "80000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Ширэмтэй никел тогоо 32-р",
+            "price": "70000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Будаа агшаагч",
+            "price": "230000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Хутага",
+            "price": "16000",
+            "maxDailyQuantity": "8"
+        },
+        {
+            "name": "Паркетан шал угаагч",
+            "price": "96000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Пиавр байны түмпэн",
+            "price": "45000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Төмөр хувин",
+            "price": "15000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "Цахилгаан тогоо 40-р",
+            "price": "40000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Цахилгаан тогоо 38-р",
+            "price": "38000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Цахилгаан тогоо 36-р",
+            "price": "36000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Цахилгаан тогоо 34-р",
+            "price": "34000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "Цахилгаан тогоо 32-р",
+            "price": "32000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "Цахилгаан тогоо 30-р",
+            "price": "30000",
+            "maxDailyQuantity": "5"
+        },
+        {
+            "name": "Цахилгаан тогоо 28-р",
+            "price": "28000",
+            "maxDailyQuantity": "5"
+        },
+        {
+            "name": "Индукцийн плитка",
+            "price": "35000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Цахилгаан зуух том",
+            "price": "90000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Цахилгаан зуух жижиг",
+            "price": "80000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Цахилгаан хил том",
+            "price": "65000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Цахилгаан хил жижиг",
+            "price": "55000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "Индүү уурын",
+            "price": "95000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Индүү том",
+            "price": "55000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Индүү жижиг",
+            "price": "45000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "Нарны гэрлийн ламп",
+            "price": "15000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "Цахилгаан халаагуур",
+            "price": "120000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Цахилгаан хөргүүр",
+            "price": "100000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Цахилгаан гурилын машин",
+            "price": "96000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Уртасгагч залгуур 25м",
+            "price": "45000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Уртасгагч залгуур 20м",
+            "price": "40000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Уртасгагч залгуур 15м",
+            "price": "35000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Уртасгагч залгуур 5м",
+            "price": "30000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Уртасгагч залгуур 3м",
+            "price": "25000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Гар чийдэн",
+            "price": "55000",
+            "maxDailyQuantity": "5"
+        },
+        {
+            "name": "Газан плитка",
+            "price": "59000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Пиавран түшлэгтэй сандал",
+            "price": "35000",
+            "maxDailyQuantity": "10"
+        },
+        {
+            "name": "Модон түшлэгтэй сандал",
+            "price": "65000",
+            "maxDailyQuantity": "20"
+        },
+        {
+            "name": "Пиавран сандал",
+            "price": "15000",
+            "maxDailyQuantity": "30"
+        },
+        {
+            "name": "Энгийн сандал",
+            "price": "10000",
+            "maxDailyQuantity": "30"
+        },
+        {
+            "name": "Угсармал сандал",
+            "price": "25000",
+            "maxDailyQuantity": "10"
+        },
+        {
+            "name": "Хатаагч том",
+            "price": "65000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Хатаагч жижиг",
+            "price": "25000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Чемодан 3-хос",
+            "price": "185000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Чемодан 2-хос",
+            "price": "150000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "5-тасалгаатай тавиур",
+            "price": "50000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "4-тасалгаатай тавиур",
+            "price": "45000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "3-тасалгаатай тавиур",
+            "price": "40000",
+            "maxDailyQuantity": "4"
+        },
+        {
+            "name": "Зурагт тавиур",
+            "price": "250000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Гурвалжин 5-тасалгаатай тавиур",
+            "price": "60000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Гурвалжин 4-тасалгаатай тавиур",
+            "price": "55000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Гурвалжин 3-тасалгаатай тавиур",
+            "price": "50000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "Зурган хөшиг",
+            "price": "50000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Хаалганы хөшиг",
+            "price": "45000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Хөшиг тогтоогч",
+            "price": "12000",
+            "maxDailyQuantity": "15"
+        },
+        {
+            "name": "Олс",
+            "price": "1500",
+            "maxDailyQuantity": "1000"
+        },
+        {
+            "name": "Том машины бүтээлгэ",
+            "price": "95000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "7-хос набор",
+            "price": "55000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "5-хос набор",
+            "price": "50000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "3-хос набор",
+            "price": "45000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "45-хос бор герман набор",
+            "price": "198000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Сэрүүлэгтэй цаг",
+            "price": "35000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Хананы цаг",
+            "price": "25000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Хөгжимтэй цаг",
+            "price": "150000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Автомат цаг",
+            "price": "86000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Хувцасны өлгүүр",
+            "price": "3500",
+            "maxDailyQuantity": "100"
+        },
+        {
+            "name": "Тоос сорогч 2500W",
+            "price": "250000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Тоос сорогч 2000W",
+            "price": "230000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Тоос сорогч 1500W",
+            "price": "200000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Даралтын апарат",
+            "price": "145000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Зургийн жааз A4",
+            "price": "5000",
+            "maxDailyQuantity": "25"
+        },
+        {
+            "name": "Зургийн жааз A3",
+            "price": "10000",
+            "maxDailyQuantity": "15"
+        },
+        {
+            "name": "Зургийн жааз B1",
+            "price": "15000",
+            "maxDailyQuantity": "6"
+        },
+        {
+            "name": "Том толь",
+            "price": "49000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Жижиг толь",
+            "price": "18000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Цахилгаан тогоо ширэмэн 40-р",
+            "price": "60000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Цахилгаан тогоо ширэмэн 38-р",
+            "price": "58000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Цахилгаан тогоо ширэмэн 36-р",
+            "price": "56000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Цахилгаан тогоо ширэмэн 34-р",
+            "price": "54000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Цахилгаан тогоо ширэмэн 32-р",
+            "price": "52000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Цахилгаан тогоо ширэмэн 30-р",
+            "price": "50000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Цахилгаан тогоо ширэмэн 28-р",
+            "price": "48000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Мах ногоо бутлагч миксер",
+            "price": "65000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Олон үйлдэлтэй будаа агшаагч",
+            "price": "95000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Талх шарагч",
+            "price": "45000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Автомат талх баригч",
+            "price": "180000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Кофе чанагч",
+            "price": "65000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Гэрлээр шарагч",
+            "price": "150000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Баллонтой ус буцалгагч",
+            "price": "180000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Блендер",
+            "price": "70000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Уур сорогч ",
+            "price": "99000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Төмс шарагч",
+            "price": "180000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Өндөг шарагч",
+            "price": "15000",
+            "maxDailyQuantity": "3"
+        },
+        {
+            "name": "Шүүс шахагч",
+            "price": "40000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Шорлогны сав",
+            "price": "190000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Шоколад хайлуулагч",
+            "price": "50000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Олон үйлдэлт тогоо ",
+            "price": "180000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Тараг бүрэгч",
+            "price": "80000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "ФМ-тэй радио",
+            "price": "95000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Оёдолын машин",
+            "price": "190000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Ногоо хэрчигч",
+            "price": "50000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Амны алчуур ",
+            "price": "8000",
+            "maxDailyQuantity": "4"
+        },
+        {
+            "name": "Нарийн боовны хэв",
+            "price": "15000",
+            "maxDailyQuantity": "4"
+        },
+        {
+            "name": "Хүнсний тааран тор",
+            "price": "10000",
+            "maxDailyQuantity": "10"
+        },
+        {
+            "name": "Хутганы ком",
+            "price": "250000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Өлгүүр",
+            "price": "25000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "5-иж бүрдэл цайны ком",
+            "price": "57000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Хайруулын таваг",
+            "price": "150000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Ширмэн хайруулын таваг",
+            "price": "35000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Хоолны сав",
+            "price": "15000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Усны сав",
+            "price": "20000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Битүү шанагч",
+            "price": "120000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Термотетр",
+            "price": "30000",
+            "maxDailyQuantity": "2"
+        },
+        {
+            "name": "Загас хайрслагч",
+            "price": "10000",
+            "maxDailyQuantity": "5"
+        },
+        {
+            "name": "Тэргэнцэр",
+            "price": "65000",
+            "maxDailyQuantity": "1"
+        },
+        {
+            "name": "Гэр ахуйн тэргэнцэр",
+            "price": "45000",
+            "maxDailyQuantity": "1"
+        }
+    ]
+}
